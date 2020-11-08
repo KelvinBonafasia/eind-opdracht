@@ -1,4 +1,4 @@
 Student name: Kelvin Bonafasia
 Student number: 675063
 Student class: INF1D
-URL student GitHub repository: https://github.com/michaInholland/Webmarkup2021  
+URL student GitHub repository: https://github.com/KelvinBonafasia/eind-opdracht
